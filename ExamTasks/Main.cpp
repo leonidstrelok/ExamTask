@@ -3,7 +3,6 @@
 
 using namespace std;
 
-long double fact(int n);
 
 int main()
 {
